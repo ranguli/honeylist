@@ -1,0 +1,11 @@
+README.rst
+pyproject.toml
+setup.py
+honeylist/__init__.py
+honeylist/honeylist.py
+honeylist/wordlist.txt
+honeylist.egg-info/PKG-INFO
+honeylist.egg-info/SOURCES.txt
+honeylist.egg-info/dependency_links.txt
+honeylist.egg-info/requires.txt
+honeylist.egg-info/top_level.txt

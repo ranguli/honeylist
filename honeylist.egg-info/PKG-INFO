@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: honeylist
+Version: 0.1.0
+Summary: Password wordlist generation from honeypot logs
+Home-page: UNKNOWN
+Author: Joshua Murphy
+Author-email: hello@joshmurphy.ca
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6,<4.0
