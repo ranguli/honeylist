@@ -1,5 +1,5 @@
-from honeylist import __version__
-
+import honeylist
+import pytest
 
 def test_version():
-    assert __version__ == '0.1.0'
+    assert honeylist.__version__ == '0.1.0'
